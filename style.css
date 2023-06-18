@@ -1,5 +1,5 @@
 body {
-  background: #ff99ff;
+  background: blue;
   max-width: 600px;
   margin: 0 auto;
   padding: 1em;
@@ -22,7 +22,7 @@ a {
 }
 
 a:hover {
-  color: maroon;
+  color: red;
 }
 
 img {
