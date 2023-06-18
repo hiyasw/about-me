@@ -1,0 +1,35 @@
+body {
+  background: lavender;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1em;
+  font-family: Georgia, serif;
+  font-size: 18px;
+  line-height: 1.6;
+  color: black;
+}
+
+h1, h2, h3 {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: orchid;
+}
+
+a:hover {
+  color: maroon;
+}
+
+img {
+  max-width: 100%;
+}
+
+.caption {
+  margin-top: 0;
+  text-align: right;
+}
