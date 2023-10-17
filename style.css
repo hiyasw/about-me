@@ -1,12 +1,12 @@
 body {
-  background: #42f5d1;
+  background: #8c032a;
   max-width: 600px;
   margin: 0 auto;
   padding: 1em;
   font-family: Baskerville, serif;
   font-size: 18px;
   line-height: 1.6;
-  color: black;
+  color: white;
 }
 
 h1, h2, h3 {
