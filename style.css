@@ -24,6 +24,9 @@ a {
 a:hover {
   color: red;
 }
+#button {
+  animation: rainbow 10s linear infinite;
+}
 
 img {
   max-width: 100%;
