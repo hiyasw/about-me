@@ -36,3 +36,20 @@ img {
   margin-top: 0;
   text-align: right;
 }
+
+ .container {
+            display: flex;
+            max-width: 960px;
+            margin: 20px auto;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            padding: 20px;
+}
+.column {
+            flex: 1;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+.column + .column {
+            border-left: 1px solid #ddd;
+        }
